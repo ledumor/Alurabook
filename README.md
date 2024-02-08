@@ -1,2 +1,2 @@
 # Alurabook
-Curso HTML&amp;CSS com telas responsivas
+Projeto em HTML&amp;CSS com telas responsivas
